@@ -1,0 +1,8 @@
+== README
+
+
+
+Ruby version 2.2.2
+This is a beginner's project. I'm learning to use bootstrap in rails and will create more functionality with ruby and jquery.
+
+
