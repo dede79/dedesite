@@ -2,7 +2,7 @@ class WelcomeController < ApplicationController
 	
     def homepage
     end
-
+    
     def thank_you
 	  @name = params[:name]
 	  @email = params[:email]
